@@ -18,5 +18,6 @@ Here you can find the link for the colab repositories that goes with the worksho
 
 **7.** Informer: Transformer for Long Time Series Forecasting (Pytorch) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/patoalejor/Workshop2021/blob/main/Informer.ipynb)
 
+**8.** Normalizing Flow [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/patoalejor/Workshop2021/blob/main/NormalizingFlows.ipynb)
 
 
