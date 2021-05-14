@@ -20,4 +20,6 @@ Here you can find the link for the colab repositories that goes with the worksho
 
 **8.** Normalizing Flow [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/patoalejor/Workshop2021/blob/main/NormalizingFlows.ipynb)
 
+**8.** Introduction Reinforcement Learning [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/patoalejor/Workshop2021/blob/main/Introduction RL.ipynb)
+
 
