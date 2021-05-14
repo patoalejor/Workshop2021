@@ -1,4 +1,4 @@
-% modelfile = 'cifarResNet.onnx';
+                                                                                                                                                                                                                                                                                                  % modelfile = 'cifarResNet.onnx';
 % classes = ["airplane" "automobile" "bird" "cat" "dee" "dog" "frog" "horse" "ship" "truck"];
 % net = importONNXNetwork(modelfile,'OutputLayerType','classification','Classes',classes)
 
